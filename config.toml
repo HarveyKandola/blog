@@ -1,0 +1,4 @@
+baseURL = "https://harveykandola.com/"
+languageCode = "en-us"
+title = "Harvey Kandola"
+theme = "hyde-hyde"

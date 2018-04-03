@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harvey Kandola</title>
+    <link>https://harveykandola.com/</link>
+    <description>Recent content on Harvey Kandola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Apr 2018 12:15:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://harveykandola.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://harveykandola.com/posts/about-me/</link>
+      <pubDate>Tue, 03 Apr 2018 12:15:19 +0100</pubDate>
+      
+      <guid>https://harveykandola.com/posts/about-me/</guid>
+      <description>Founder @ Documize. Founded Countersoft.</description>
+    </item>
+    
+  </channel>
+</rss>
