@@ -12,15 +12,11 @@ enableRobotsTXT = true
     dateformat = "Jan 2, 2006"
     highlightjs = true
 
-
-## Social Accounts
 [params.social]
     github = "HarveyKandola"
     linkedin = "HarveyKandola"
     twitter = "HarveyKandola"
-    #email = "harvey@documize.com"
 
-## Main Menu
 [[menu.main]]
     name = "Posts"
     weight = 100
