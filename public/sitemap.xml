@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://harveykandola.com/posts/about-me/</loc>
-    <lastmod>2018-04-03T12:15:19+01:00</lastmod>
+    <loc>https://harveykandola.com/about/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harveykandola.com/posts/moving-to-san-francisco/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://harveykandola.com/</loc>
-    <lastmod>2018-04-03T12:15:19+01:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://harveykandola.com/posts/</loc>
-    <lastmod>2018-04-03T12:15:19+01:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
