@@ -2,3 +2,32 @@ baseURL = "https://harveykandola.com/"
 languageCode = "en-us"
 title = "Harvey Kandola"
 theme = "hyde-hyde"
+enableRobotsTXT = true
+
+[params]
+    authorimage = "/hsk.jpg"
+    description = "thoughts on tech"
+    author = "Harvey Kandola"
+    copyright = "© 2018"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+
+
+## Social Accounts
+[params.social]
+    github = "HarveyKandola"
+    linkedin = "HarveyKandola"
+    twitter = "HarveyKandola"
+    #email = "harvey@documize.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
