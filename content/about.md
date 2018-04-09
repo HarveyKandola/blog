@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-date = "2018-01-01"
+date = "2017-12-31"
 +++
 
 I'm an old school Software Developer, CTO by trade, who gave up the rat race to 

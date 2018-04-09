@@ -6,7 +6,7 @@ enableRobotsTXT = true
 
 [params]
     authorimage = "/hsk.jpg"
-    description = "thoughts on tech"
+    description = "tech // startups // misc."
     author = "Harvey Kandola"
     copyright = "© 2018"
     dateformat = "Jan 2, 2006"
