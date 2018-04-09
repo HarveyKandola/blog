@@ -1,7 +1,6 @@
 ---
 title: "Setting up in Silicon Valley"
 date: 2018-01-01
-draft: false
 ---
 
 Couple of years ago, I moved my startup from London to San Francisco and learned a bunch of

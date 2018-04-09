@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Harvey Kandola"
 theme = "hyde-hyde"
 enableRobotsTXT = true
+enableGitInfo = true
 
 [params]
     authorimage = "/hsk.jpg"
@@ -11,6 +12,7 @@ enableRobotsTXT = true
     copyright = "© 2018"
     dateformat = "Jan 2, 2006"
     highlightjs = true
+    themeColor= "theme-base-09"
 
 [params.social]
     github = "HarveyKandola"

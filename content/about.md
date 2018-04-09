@@ -1,7 +1,8 @@
-+++
-title = "About Me"
-date = "2017-12-31"
-+++
+---
+title: "About me"
+date: 2017-12-31
+type: about
+---
 
 I'm an old school Software Developer, CTO by trade, who gave up the rat race to 
 build software startups. Have a passion for enterprise software, B2B,
