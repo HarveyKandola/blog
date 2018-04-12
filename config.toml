@@ -4,6 +4,7 @@ title = "Harvey Kandola"
 theme = "hyde-hyde"
 enableRobotsTXT = true
 enableGitInfo = true
+googleAnalytics = "UA-50713833-5"
 
 [params]
     authorimage = "/hsk.jpg"
